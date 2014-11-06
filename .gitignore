@@ -24,3 +24,5 @@ proguard/
 
 # Log Files
 *.log
+hardware/__Previews/warpcore.PcbDocPreview
+hardware/__Previews/warpcore.SchDocPreview
