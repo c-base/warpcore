@@ -26,3 +26,4 @@ proguard/
 *.log
 hardware/__Previews/warpcore.PcbDocPreview
 hardware/__Previews/warpcore.SchDocPreview
+*.Zip
